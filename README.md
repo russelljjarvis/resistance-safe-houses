@@ -1,5 +1,5 @@
 
-# Resistance Safe Houses
+# Resistance Safe Houses (cafe reviews, or nature park reviews).
 
 Collaboration using Gitub and geojson
 
@@ -106,9 +106,9 @@ git push origin master
 
 We embed the geojson into a gh-pages (project) web page here: http://dansand.github.io/resistance-safe-houses/
 
-#Notes
+# Notes
 
-##Acknowledgements
+## Acknowledgements
 
 The idea for this lesson came from Open Tech School:
 
