@@ -13,6 +13,7 @@ So, Step 1 is to FORK this repository, which you can do so by pressing the fork 
 
 <img src="images/fork.png" width="80" height="80" />
 
+https://embed.github.com/view/geojson/russelljjarvis/resistance-safe-houses/master/merged.geojson
 
 
 
